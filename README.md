@@ -1,5 +1,4 @@
-# Restaurant Menu Management System
-# Final mini project of the teacher Pourreza
+# Restaurant Menu Management System ( Final mini project of the teacher Pourreza )
 
 A simple command-line Python application for managing a restaurant menu.  
 All data is stored in a CSV file (`restaurant_menu.txt`).
